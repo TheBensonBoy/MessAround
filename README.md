@@ -6,11 +6,17 @@ This repo is intended for the use of trying new things and storing minimal proje
 
 - [HelloWorld.cpp](HelloWorld.cpp) (This is a test for git and a very obvious start. Written in C++)
 
+----------
+
 - [Kattis](/Kattis) 
     - [Autori](/Kattis/Autori) (WIP)
         - [CPP File](/Kattis/Autori/Autori.cpp)
         - [Explination](/Kattis/Autori/Explination.md)
         - [Kattis Link](https://open.kattis.com/problems/autori)
+    - [Faktor](/Kattis/Faktor) (WIP)
+        - [CPP File](/Kattis/Faktor/Faktor.cpp)
+        - [Explination](/Kattis/Faktor/Explination.md)
+        - [Kattis Link](https://open.kattis.com/problems/faktor)
 
 - [New Languages](/NewLanguages)
     - [Python](NewLanguages/Python)

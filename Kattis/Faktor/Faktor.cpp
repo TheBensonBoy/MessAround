@@ -1,10 +1,8 @@
 #include <iostream>
-#include <fstream>
 
 using namespace std;
 
 int main()
 {
-    
-    cin >> 
+    cout << "Hello World!\n";
 }
