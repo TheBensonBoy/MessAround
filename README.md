@@ -12,7 +12,7 @@ This repo is intended for the use of trying new things and storing minimal proje
         - [Explination](/Kattis/Autori/Explination.md)
         - [Kattis Link](https://open.kattis.com/problems/autori)
 
-- [New Languages](/New\ Languages)
-    - [Python](New\ Languages/Python)
-        - [Hello World Test](/New\ Languages/Python/HelloWorld.py) (WIP (Need to actually learn Python first))
+- [New Languages](/NewLanguages)
+    - [Python](NewLanguages/Python)
+        - [Hello World Test](/NewLanguages/Python/HelloWorld.py) (WIP (Need to actually learn Python first))
 
