@@ -22,3 +22,11 @@ This repo is intended for the use of trying new things and storing minimal proje
     - [Python](NewLanguages/Python)
         - [Hello World Test](/NewLanguages/Python/HelloWorld.py) (WIP (Need to actually learn Python first))
 
+- [Other](/Other)
+    - [Bots](/Other/Bots)
+        - [Discord](/Other/Bots/Discord)
+            - [node_modules](/Other/Bots/Discord/node_modules)
+                - Yeah, I have no clue what's in here. This is what was given to me from the VSCode extension
+            - [TheBensonBot](/Other/Bots/Discord/TheBensonBot)
+                - [TheBensonBot(Discord).js](Other/Bots/Discord/TheBensonBot/TheBensonBot(Discord).js)
+
