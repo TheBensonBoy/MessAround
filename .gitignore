@@ -1,3 +1,4 @@
 *.out
 *.o
 /Kattis/*/*.txt
+/Other/Bots/Discord/TheBensonBot/TheBensonBot(Discord).js

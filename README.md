@@ -28,5 +28,5 @@ This repo is intended for the use of trying new things and storing minimal proje
             - [node_modules](/Other/Bots/Discord/node_modules)
                 - Yeah, I have no clue what's in here. This is what was given to me from the VSCode extension
             - [TheBensonBot](/Other/Bots/Discord/TheBensonBot)
-                - [TheBensonBot(Discord).js](Other/Bots/Discord/TheBensonBot/TheBensonBot(Discord).js)
+                - ~~TheBensonBot(Discord).js~~ (Discord messaged me and commented on the bots token. That said, I will not be uploading this file in order to keep this repo public)
 
