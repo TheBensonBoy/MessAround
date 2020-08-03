@@ -18,5 +18,4 @@ client.on('message', msg => {
         msg.reply('NEVER GONNA GIVE YOU UP NEVER GONNA LET YOU DOWN NEVER GONNA TURN AROUND AND DESERT YOU ')
     }
 });
-
 client.login('NzAwMjEzOTk4NjYyMTg5MDc2.XpgRfw.tolHL6cwsMT0_czEqH2BhT7GGJY');

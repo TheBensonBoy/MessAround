@@ -2,7 +2,7 @@
 
 
 
-This repo is intended for the use of trying new things and storing minimal projects (such as Kattis, and trying new languages). Made it public because others may or may not want to learn from my own mistakes, if somehow you can even learn what i did in the fierst place
+This repo is intended for the use of trying new things and storing minimal projects (such as Kattis, and trying new languages). Made it public because others may or may not want to learn from my own mistakes, if somehow you can even learn what i did in the first place
 
 ## Table of Contents
 
@@ -31,4 +31,8 @@ This repo is intended for the use of trying new things and storing minimal proje
                 - Yeah, I have no clue what's in here. This is what was given to me from the VSCode extension
             - [TheBensonBot](/Other/Bots/Discord/TheBensonBot)
                 - ~~TheBensonBot(Discord).js~~ (Discord messaged me and commented on the bots token. That said, I will not be uploading this file in order to keep this repo public)
+
+    - [HTML Game](/Other/HtmlGame/)
+        - [index.html](/Other/HTMLGame/index.html)
+            - Testing out making games using HTML (makes a local game, might use my '.io' domain instead, undecided)
 
