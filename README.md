@@ -29,6 +29,10 @@ This repo is intended for the use of trying new things and storing minimal proje
             - [Py File](</Kattis/Python/Cold-puter Science/cold.py>)
             - [Explination](</Kattis/Python/Cold-puter Science/Explination.md>)
             - [Kattis Link](https://open.kattis.com/problems/cold)
+        - [Pizza Crust](</Kattis/Python/Pizza Crust>)
+            - [Py File](</Kattis/Python/Pizza Crust/pizza2.py>)
+            - [Explination](</Kattis/Python/Pizza Crust/Explination.md>)
+            - [Kattis Link](https://open.kattis.com/problems/pizza2)
 
 
 - [New Languages](/NewLanguages)
