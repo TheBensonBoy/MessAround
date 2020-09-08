@@ -3,17 +3,19 @@
 #Cold-puter Scince
 
 def main():
-    # Kattis/user inputs the amount of days we will evaluate
+    # Kattis/user inputs the amount of days we will evaluate, and won't be used elsewhere in the code
     days = int(input())
 
     # Declare the amount of cold days so far
     amount = 0
 
-    # We are determining how many days are below zero
-    for temp in range(days):
-        temp = list(map(int, input().split(' ')))
+    # User input for temps
+    temp = list(map(float, input().split(' ')))
 
-        if temp < 0:
-            print(amount)
+    # This is for deciphering how many days are below zero
+    for t in temp:
+        if t < 0:
+            amount += 1
+    print(amount)
 
 main()

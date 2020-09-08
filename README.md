@@ -25,7 +25,7 @@ This repo is intended for the use of trying new things and storing minimal proje
             - [Py File](/Kattis/Python/Hello/hello.py)
             - [Explination](/Kattis/Python/Hello/Explination.md)
             - [Kattis link](https://open.kattis.com/problems/hello)
-        - [Cold-puter Science](/Kattis/Python/Cold) (WIP)
+        - [Cold-puter Science](/Kattis/Python/Cold)
             - [Py File](/Kattis/Python/Cold/cold.py)
             - [Explination](/Kattis/Python/Cold/Explination.md)
             - [Kattis Link](https://open.kattis.com/problems/cold)
