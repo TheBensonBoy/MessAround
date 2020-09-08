@@ -21,13 +21,13 @@ This repo is intended for the use of trying new things and storing minimal proje
             - [Explination](/Kattis/Faktor/Explination.md)
             - [Kattis Link](https://open.kattis.com/problems/faktor)
     - [Python](/Kattis/Python)
-        - [Hello World]("/Kattis/Python/Hello\ World")
-            - [Py File]("/Kattis/Python/Hello\ World/hello.py")
-            - [Explination]("/Kattis/Python/Hello\ World/Explination.md")
+        - [Hello World](</Kattis/Python/Hello World>)
+            - [Py File](</Kattis/Python/Hello World/hello.py>)
+            - [Explination](</Kattis/Python/Hello World/Explination.md>)
             - [Kattis link](https://open.kattis.com/problems/hello)
-        - [Cold-puter Science]("/Kattis/Python/Cold-puter\ Science")
+        - [Cold-puter Science](</Kattis/Python/Cold-puter Science>)
             - [Py File](</Kattis/Python/Cold-puter Science/cold.py>)
-            - [Explination]("/Kattis/Python/Cold-puter Science/Explination.md")
+            - [Explination](</Kattis/Python/Cold-puter Science/Explination.md>)
             - [Kattis Link](https://open.kattis.com/problems/cold)
 
 
