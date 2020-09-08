@@ -29,7 +29,7 @@ This repo is intended for the use of trying new things and storing minimal proje
             - [Py File](</Kattis/Python/Cold-puter Science/cold.py>)
             - [README](</Kattis/Python/Cold-puter Science/README.md>)
             - [Kattis Link](https://open.kattis.com/problems/cold)
-        - [Pizza Crust](</Kattis/Python/Pizza Crust>)
+        - [Pizza Crust](</Kattis/Python/Pizza Crust>)(WIP)
             - [Py File](</Kattis/Python/Pizza Crust/pizza2.py>)
             - [README](</Kattis/Python/Pizza Crust/README.md>)
             - [Kattis Link](https://open.kattis.com/problems/pizza2)
